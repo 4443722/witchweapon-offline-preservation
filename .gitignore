@@ -1,0 +1,46 @@
+# Generated or extracted content
+build/
+decoded/
+evidence/
+original_parts/
+overrides/
+pc_story_source/
+tools/
+inputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Packages, executables and signing material
+*.apk
+*.xapk
+*.obb
+*.exe
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.crt
+
+# Local work notes superseded by README.md and STATUS.md
+CURRENT_PROGRESS.md
+CURSOR_*
+FULL_OFFLINE_PLAN.md
+PAUSE_CHECKPOINT.md
+PROJECT.md
+REMAINING_WORK.md
+RESUME_AUDIT.md
+*_REPORT.md
+STORY_DIRECTORY_COMPARISON.md
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+*_AUDIT.md

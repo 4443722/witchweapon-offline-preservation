@@ -1,0 +1,10 @@
+androguard==4.1.4
+capstone==5.0.9
+loguru==0.7.3
+lxml==6.1.0
+numpy==2.4.1
+Pillow==12.3.0
+protobuf==6.33.6
+pyelftools==0.33
+UnityPy==1.25.3
+zstandard==0.25.0
