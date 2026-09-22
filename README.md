@@ -80,3 +80,7 @@ python build_apk.py
 - `offline_story.py`、`pc_*.py`：剧情目录和 PC 资源转换
 - `offline_progression.py`、`offline_roster.py`：角色、武器和养成数据
 - `offline_responses.json`：生成后的本地服务响应集
+
+## 许可证
+
+本工程自行编写的源码和文档采用 [CC0 1.0 Universal](LICENSE)，使用时不要求署名或保留许可证文本。原游戏内容的权利说明见 [NOTICE.md](NOTICE.md)。
